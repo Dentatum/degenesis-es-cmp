@@ -1,8 +1,6 @@
-## DEGENESIS EN ESPAÑOL
-Compendios
+## FOUNDRY VTT :: DEGENESIS [ESP]
 
-Este módulo incluye las traducciones al español de los compendios incluidos en el sistema DEGENESIS: Rebirth, creado por greedyj4ck para Foundry VTT
-(https://github.com/greedyj4ck/DEGENESIS-FoundryVTT) 
+Este módulo incluye las traducciones al español de los compendios incluidos en el sistema DEGENESIS: Rebirth
 
 La versión actual incluye:
 * Armas
