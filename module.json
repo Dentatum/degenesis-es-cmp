@@ -1,0 +1,70 @@
+{
+    "title": "Compendium Degenesis [ESP]",
+    "description": "Traducción al español de los compendios del sistema Degenesis: Rebirth https://github.com/greedyj4ck/DEGENESIS-FoundryVTT",
+    "version": "1.2.0",
+    "authors": [
+        {
+            "name": "Dentatum",
+            "discord": "@.dentatum"
+        }
+    ],
+    "compatibility": {
+        "minimum": "11.312",
+        "verified": "11.315"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "degenesis",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "0.6.1.2",
+                    "verified": "0.6.1.2"
+                }
+            }
+        ]
+    },
+    "packs": [
+        {
+            "name": "defensa",
+            "label": "[ESP] Armadura y escudos",
+            "path": "./packs/defensa",
+            "system": "degenesis",
+            "type": "Item",
+            "entity": "comp-defensa"
+        },
+        {
+            "name": "armas",
+            "label": "[ESP] Armas",
+            "path": "./packs/armas",
+            "system": "degenesis",
+            "type": "Item",
+            "entity": "comp-armas"
+        },
+        {
+            "name": "municion",
+            "label": "[ESP] Municion",
+            "path": "./packs/municion",
+            "system": "degenesis",
+            "type": "Item",
+            "entity": "comp-municion"
+        },
+		{
+            "name": "legados",
+            "label": "[ESP] Legados",
+            "path": "./packs/legados",
+            "system": "degenesis",
+            "type": "Item",
+            "entity": "comp-legados"
+        },
+        {
+            "name": "potenciales",
+            "label": "[ESP] Potenciales",
+            "path": "./packs/potenciales",
+            "system": "degenesis",
+            "type": "Item",
+            "entity": "comp-potenciales"
+        }
+    ],
+    "manifest": "https://github.com/Dentatum/degenesis-foundryvtt-compendium-esp/blob/master/module.json"
+}
