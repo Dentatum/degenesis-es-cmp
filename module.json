@@ -67,5 +67,6 @@
             "entity": "comp-potenciales"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/Dentatum/degenesis-foundryvtt-compendium-esp/master/module.json"
+    "manifest": "https://raw.githubusercontent.com/Dentatum/degenesis-foundryvtt-compendium-esp/master/module.json",
+	"download": "https://github.com/Dentatum/degenesis-foundryvtt-compendium-esp"
 }
