@@ -6,12 +6,11 @@
     "authors": [
         {
             "name": "Dentatum",
-            "discord": "@.dentatum"
         }
     ],
     "compatibility": {
-        "minimum": "11.312",
-        "verified": "11.315"
+        "minimum": "11",
+        "verified": "11"
     },
     "relationships": {
         "systems": [
