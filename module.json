@@ -1,12 +1,12 @@
 {
-"id": "degenesis-foundryvtt-compendium-esp",
+    "id": "degenesis-foundryvtt-compendium-esp",
     "title": "Compendium Degenesis [ESP]",
     "description": "Traducción al español de los compendios del sistema Degenesis: Rebirth",
     "version": "1.2.0",
     "authors": [
         {
             "name": "Dentatum",
-			"discord": ".dentatum"
+            "discord": ".dentatum"
         }
     ],
     "compatibility": {
@@ -50,7 +50,7 @@
             "type": "Item",
             "entity": "comp-municion"
         },
-		{
+        {
             "name": "legados",
             "label": "[ESP] Legados",
             "path": "./packs/legados",
