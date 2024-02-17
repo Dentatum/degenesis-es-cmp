@@ -1,6 +1,6 @@
 {
     "id": "degenesis-es-cmp",
-    "title": "Compendium Degenesis [ESP]",
+    "title": "Compendium Degenesis [ES]",
     "description": "Traducción al español de los compendios del sistema Degenesis: Rebirth",
     "version": "1.3.1",
     "authors": [
@@ -28,51 +28,66 @@
     "packs": [
         {
             "name": "defensa",
-            "label": "[ESP] Armadura y escudos",
+            "label": "[ES] Armadura y escudos",
             "path": "./packs/defensa",
+			"banner": "./ui/armor-shields-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-defensa"
         },
         {
             "name": "armas",
-            "label": "[ESP] Armas",
+            "label": "[ES] Armas",
             "path": "./packs/armas",
+			"banner": "./ui/weapons-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-armas"
         },
         {
             "name": "municion",
-            "label": "[ESP] Municion",
+            "label": "[ES] Municion",
             "path": "./packs/municion",
+			"banner": "./ui/ammo-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-municion"
         },
         {
             "name": "legados",
-            "label": "[ESP] Legados",
+            "label": "[ES] Legados",
             "path": "./packs/legados",
+			"banner": "./ui/legacies-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-legados"
         },
         {
             "name": "potenciales",
-            "label": "[ESP] Potenciales",
+            "label": "[ES] Potenciales",
             "path": "./packs/potenciales",
+			"banner": "./ui/potentials-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-potenciales"
         },
 		{
 			"name": "equipamiento",
-            "label": "[ESP] Equipamiento",
+            "label": "[ES] Equipamiento",
 			"path": "./packs/equipamiento",
+			"banner": "./ui/equipment-pack-esp.webp",
 			"system": "degenesis",
             "type": "Item",
             "entity": "comp-equipamiento"
+		},
+		{
+			"name": "fenomenos",
+            "label": "[ES] Fenómenos",
+			"path": "./packs/fenomenos",
+			"banner": "./ui/phenomena-pack-esp.webp",
+			"system": "degenesis",
+            "type": "Item",
+            "entity": "comp-fenomenos"
 		}
     ],
     "manifest": "https://raw.githubusercontent.com/Dentatum/degenesis-es-cmp/master/module.json",
