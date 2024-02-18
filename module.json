@@ -30,7 +30,7 @@
             "name": "defensa",
             "label": "[ES] Armadura y escudos",
             "path": "./packs/defensa",
-			"banner": "./packs/ui/armor-shields-pack-esp.webp",
+			"banner": "/modules/degenesis-es-cmp/packs/ui/armor-shields-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-defensa"
@@ -39,7 +39,7 @@
             "name": "armas",
             "label": "[ES] Armas",
             "path": "./packs/armas",
-			"banner": "./packs/ui/weapons-pack-esp.webp",
+			"banner": "/modules/degenesis-es-cmp/packs/ui/weapons-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-armas"
@@ -48,7 +48,7 @@
             "name": "municion",
             "label": "[ES] Municion",
             "path": "./packs/municion",
-			"banner": "./packs/ui/ammo-pack-esp.webp",
+			"banner": "/modules/degenesis-es-cmp/packs/ui/ammo-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-municion"
@@ -57,7 +57,7 @@
             "name": "legados",
             "label": "[ES] Legados",
             "path": "./packs/legados",
-			"banner": "./packs/ui/legacies-pack-esp.webp",
+			"banner": "/modules/degenesis-es-cmp/packs/ui/legacies-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-legados"
@@ -66,7 +66,7 @@
             "name": "potenciales",
             "label": "[ES] Potenciales",
             "path": "./packs/potenciales",
-			"banner": "./packs/ui/potentials-pack-esp.webp",
+			"banner": "/modules/degenesis-es-cmp/packs/ui/potentials-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
             "entity": "comp-potenciales"
@@ -75,7 +75,7 @@
 			"name": "equipamiento",
             "label": "[ES] Equipamiento",
 			"path": "./packs/equipamiento",
-			"banner": "./packs/ui/equipment-pack-esp.webp",
+			"banner": "/modules/degenesis-es-cmp/packs/ui/equipment-pack-esp.webp",
 			"system": "degenesis",
             "type": "Item",
             "entity": "comp-equipamiento"
@@ -84,7 +84,7 @@
 			"name": "fenomenos",
             "label": "[ES] Fenómenos",
 			"path": "./packs/fenomenos",
-			"banner": "./packs/ui/phenomena-pack-esp.webp",
+			"banner": "/modules/degenesis-es-cmp/packs/ui/phenomena-pack-esp.webp",
 			"system": "degenesis",
             "type": "Item",
             "entity": "comp-fenomenos"
