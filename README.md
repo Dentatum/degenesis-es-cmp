@@ -4,8 +4,7 @@ Este módulo incluye las traducciones al español de los compendios incluidos en
 
 La versión actual incluye:
 * Armas
-* Armaduras y escudos
-* Munición
+* Protecciones
 * Equipamiento
 * Potenciales
 * Legados
