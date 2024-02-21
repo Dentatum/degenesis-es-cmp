@@ -2,7 +2,7 @@
     "id": "degenesis-es-cmp",
     "title": "Degenesis: Rebirth - Compendium (ES)",
     "description": "Traducción al español de los compendios del sistema Degenesis: Rebirth",
-    "version": "1.4.4",
+    "version": "1.4.5",
     "authors": [
         {
             "name": "Dentatum",
@@ -27,13 +27,13 @@
     },
     "packs": [
         {
-            "name": "defensa",
+            "name": "armadura-y-escudos",
             "label": "[ES] Armadura y escudos",
-            "path": "./packs/defensa",
+            "path": "./packs/armadura-y-escudos",
 			"banner": "/modules/degenesis-es-cmp/packs/ui/armor-shields-pack-esp.webp",
             "system": "degenesis",
             "type": "Item",
-            "entity": "comp-defensa"
+            "entity": "comp-armadura-y-escudos"
         },
         {
             "name": "armas",
